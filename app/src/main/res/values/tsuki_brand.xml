@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App-level override keeps the upstream Mihon UI intact while branding the launcher as TSUKI. -->
+    <string name="app_name" translatable="false">TSUKI</string>
+</resources>
